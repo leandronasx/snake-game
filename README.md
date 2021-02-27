@@ -2,6 +2,8 @@
 
 <p align="justify">Recriando o clássico jogo da cobrinha utilizando HTML, CSS e JavaScript. desafio do bootcamp HTML Web Developer da Digital Innovation One.</p>
 
+<a href="https://game-snake-leandro.netlify.app/">Quero jogar</a>
+
 <h4 align="center"> 
 	✅ SNAKE GAME 🚀  CONCLUÍDO ✅
 </h4>
